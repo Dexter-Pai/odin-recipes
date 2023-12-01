@@ -10,4 +10,4 @@ I have already finished CS50, this is my next step forward.
 
 This project is about creating a webpage, showcasing traditional foods consumed throughout Asia and detailed recipes on how to make them.
 
-## Thank you!
+## Thank you for your interest!
