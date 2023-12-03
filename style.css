@@ -13,6 +13,14 @@ img {
     margin: auto;
 }
 
+#page-title {
+    background-color: rgb(226, 235, 243);
+    text-shadow: white 0px 3px 8px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
 .header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -24,4 +32,8 @@ h1.header {
 
 h2.header {
     font-size: 40px;
+}
+
+.list {
+    padding: 3px;
 }
