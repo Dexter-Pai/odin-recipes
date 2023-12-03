@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+body {
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h1.header {
+    font-size: 50px;
+}
+
+h2.header {
+    font-size: 40px;
+}
