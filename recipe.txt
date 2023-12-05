@@ -1,7 +1,25 @@
-Cook noodles according to package instructions, just until tender.  Rinse under cold water.
-Make sauce by combining sauce ingredients in a bowl. Set aside.
-Stir Fry: Heat 1½ tablespoons of oil in a large saucepan or wok over medium-high heat. Add the shrimp, chicken or tofu, garlic and bell pepper. The shrimp will cook quickly, about 1-2 minutes on each side, or until pink. If using chicken, cook until just cooked through, about 3-4 minutes, flipping only once.
-Push everything to the side of the pan. Add a little more oil and add the beaten eggs. Scramble the eggs, breaking them into small pieces with a spatula as they cook.
-Add noodles, sauce, bean sprouts and peanuts to the pan (reserving some peanuts for topping at the end). Toss everything to combine.
-Garnish the top with green onions, extra peanuts, cilantro and lime wedges. Serve immediately!
-Store leftovers in the fridge and enjoy within 2-3 days.
+--------------------------------------------
+# delete all the text inside this text file
+# and add recipes found around the internet
+# then run p.py from command-line.
+
+# written this because I was too bored to copy and paste.
+# Laziness is a trait of a good programmer lol :)
+
+# output format:
+#     <li> [output-text] </li>
+
+# example texts. Try for yourself
+--------------------------------------------
+▢6 quarts water
+▢1 large onion or 3-4 large shallots
+▢1 3-inch piece ginger
+▢4-5  teaspoons dried shrimp
+▢1 stick cinnamon
+▢2-3 whole pods cardamom crushed to expose seeds
+▢1 teaspoon fennel seeds
+▢4-5 whole star anise
+▢1 fuji apple
+▢2-4 TBSPs fish sauce
+▢1 pound beef raw, thinly sliced or shaved, for up to 8 people
+▢1 package rice noodles flat
